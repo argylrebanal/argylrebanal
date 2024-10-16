@@ -93,7 +93,6 @@
 
 </details>
 
-<!--
 <table align="center">
   <row>
     <td>
@@ -104,7 +103,7 @@
     </td>
   </row>
 </table> 
--->
+
 
 <!--
 **argylrebanal/argylrebanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
